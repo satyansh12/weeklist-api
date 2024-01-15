@@ -1,5 +1,0 @@
-NODE_ENV=development
-DB_STRING=mongodb://0.0.0.0:27017/weeklist
-
-JWT_SECRET_KEY=
-JWT_EXPIRATION=
